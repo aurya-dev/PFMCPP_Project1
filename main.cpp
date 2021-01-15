@@ -124,13 +124,13 @@ bobbyCar.steerWheel();
 //  action 3:
 bobbyCar.roll(); 
 //  10)
-//  Noun:       plant
+//  Noun:       chainSaw
 //  action 1:
-plant.photosynthesis();
+chainSaw.squeakLoudly();
 //  action 2:
-plant.grow();
+chainSaw.cutDownTree();
 //  action 3:
-plant.wilt(); 
+chainSaw.vibrateStrongly(); 
 
 
 #endif
