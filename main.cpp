@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
+//  Noun:       alarmClock
 //  action 1:
-
+alarmClock.ring();
 //  action 2:
-
+alarmClock.snooze();
 //  action 3:
- 
+alarmClock.vibrate(); 
 //  2)
-//  Noun:
+//  Noun:       coffeeMachine
 //  action 1:
-
+coffeeMachine.heatUp();
 //  action 2:
-
+coffeeMachine.foamMilk();
 //  action 3:
- 
+caffeeMachine.grindBeans(); 
 //  3)
-//  Noun:
+//  Noun:       vacuumRobot
 //  action 1:
-
+vacuumRobot.charge();
 //  action 2:
-
+vacuumRobot.clean()
 //  action 3:
- 
+vacuumRobot.scanEnviroment() 
 //  4)
-//  Noun:
+//  Noun:       drumComputer
 //  action 1:
-
+drumComputer.playPattern();
 //  action 2:
-
+drumComputer.loadSample();
 //  action 3:
- 
+drumComputer.saveSong(); 
 //  5)
-//  Noun:
+//  Noun:       smartPhone
 //  action 1:
-
+smartPhone.checkWiFi();
 //  action 2:
-
+smartPhone.switchOffDisplay();
 //  action 3:
- 
+smartPhone.reboot(); 
 //  6)
-//  Noun:
+//  Noun:       compiler
 //  action 1:
-
+compiler.checkCode();
 //  action 2:
-
+compiler.compile();
 //  action 3:
- 
+compiler.translate(); 
 //  7)
-//  Noun:
+//  Noun:       computer
 //  action 1:
-
+computer.calculate();
 //  action 2:
-
+computer.conntectNetwork();
 //  action 3:
- 
+computer.crash(); 
 //  8)
-//  Noun:
+//  Noun:       fridge
 //  action 1:
-
+fridge.freezeFood();
 //  action 2:
-
+fridge.switchOnLight();
 //  action 3:
- 
+fridge.swir(); 
 //  9)
-//  Noun:
+//  Noun:       bobbyCar
 //  action 1:
-
+bobbyCar.honk();
 //  action 2:
-
+bobbyCar.steerWheel();
 //  action 3:
- 
+bobbyCar.roll(); 
 //  10)
-//  Noun:
+//  Noun:       chainSaw
 //  action 1:
-
+chainSaw.squeakLoudly();
 //  action 2:
-
+chainSaw.cutDownTree();
 //  action 3:
- 
+chainSaw.vibrateStrongly(); 
 
 
 #endif
